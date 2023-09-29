@@ -1,4 +1,4 @@
-# App Store Badge
+# App crypted
 
 This repository contains the source code for web component that displays the "Get this app on the Microsoft Store" badge.
 
